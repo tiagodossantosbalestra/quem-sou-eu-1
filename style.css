@@ -9,7 +9,11 @@ section{
     max-width: 85%;
     border-radius: 10px;
 }
-
+.Quem sou eu{
+    color: #333;
+  text-align: center;
+  background-color: rgba(252, 252, 9, 0.651);
+}
 
 .passado{
   color: #333;
