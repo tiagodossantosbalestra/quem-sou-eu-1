@@ -5,6 +5,9 @@ body {
   padding: 20px;
 }
 
+section{
+    max-width: 80%;
+}
 /* Cabeçalho */
 .passado{
   color: #333;
