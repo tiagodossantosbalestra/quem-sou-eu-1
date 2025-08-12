@@ -30,8 +30,10 @@ p {
 
 .presente{
     background-color: rgba(7, 247, 39, 0.781);
+    text-align: center;
 }
 
 .futuro{
     background-color: rgba(248, 204, 6, 0.788);
+    text-align: center;
 }
