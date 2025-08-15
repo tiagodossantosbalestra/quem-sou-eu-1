@@ -37,3 +37,7 @@ p {
     background-color: rgba(248, 204, 6, 0.788);
     text-align: center;
 }
+
+img{
+  height: 300px;
+}
